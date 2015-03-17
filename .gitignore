@@ -1,0 +1,5 @@
+*.suo
+_*
+ResxSwapper/bin
+ResxSwapper/obj
+*.user
