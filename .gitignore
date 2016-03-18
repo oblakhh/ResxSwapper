@@ -1,5 +1,6 @@
 *.suo
 _*
-ResxSwapper/bin
-ResxSwapper/obj
+**/bin
+**/obj
 *.user
+packages
